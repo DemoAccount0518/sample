@@ -1,0 +1,4 @@
+com\qa\pages\LoginPage.class
+com\qa\pages\DashboardPage.class
+com\qa\util\TestUtil.class
+com\qa\base\TestBase.class
