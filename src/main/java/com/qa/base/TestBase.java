@@ -12,10 +12,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.qa.util.TestUtil;
-//checking merge conflict - updated
+
 public class TestBase {
 	public static WebDriver driver;
 	public static Properties prop;
+	
+	public void testRepoMethod(){
+	}
  // merge conflict from eclipse.
 	public TestBase() {
 		prop = new Properties();
