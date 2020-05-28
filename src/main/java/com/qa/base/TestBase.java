@@ -16,7 +16,7 @@ import com.qa.util.TestUtil;
 public class TestBase {
 	public static WebDriver driver;
 	public static Properties prop;
-
+ // merge conflict from eclipse.
 	public TestBase() {
 		prop = new Properties();
 		FileReader reader = null;

@@ -16,7 +16,7 @@ public class LoginPage extends TestBase{
 
 	@FindBy(id="login")
 	WebElement loginButton;
-	//Steps
+	//Steps number
 	public void setUserName(String userName) {
 			usernameBox.sendKeys(userName);
 		}
